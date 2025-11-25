@@ -1,0 +1,18 @@
+{
+    "vat_status": {"exempt": true, "note": "Currently exempt, monitor 2025 Finance Bill changes"},
+    "net_metering": {
+        "eligible": true,
+        "single_phase_max_kw": 4,
+        "three_phase_max_kw": 10,
+        "export_credit_rate": 0.5,
+        "application_url": "https://www.kplc.co.ke/netmetering"
+    },
+    "paygo_providers": [
+        {"name": "M-KOPA", "system_cost_max_ksh": 200000, "note": "Pay-as-you-go financing for small systems"},
+        {"name": "SunKing", "system_cost_max_ksh": 150000, "note": "Solar home systems financing"}
+    ],
+    "bank_loans": [
+        {"bank": "Equity Bank", "interest_rate_min": 0.07, "note": "Solar financing loans"},
+        {"bank": "KCB", "interest_rate_min": 0.07, "note": "Green energy loans"}
+    ]
+}

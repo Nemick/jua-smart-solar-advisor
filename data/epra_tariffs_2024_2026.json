@@ -1,0 +1,19 @@
+{
+    "effective_from": "2024-07-01",
+    "effective_to": "2026-06-30",
+    "tariffs": {
+        "domestic": [
+            {"name": "Lifeline", "range_kwh": [0, 30], "base_rate_ksh_per_kwh": 12.14},
+            {"name": "Ordinary 1", "range_kwh": [31, 100], "base_rate_ksh_per_kwh": 16.50},
+            {"name": "Ordinary 2", "range_kwh": [101, 99999], "base_rate_ksh_per_kwh": 18.57}
+        ],
+        "small_commercial": [
+            {"name": "Tier 1", "range_kwh": [0, 100], "base_rate_ksh_per_kwh": 19.00},
+            {"name": "Tier 2", "range_kwh": [101, 500], "base_rate_ksh_per_kwh": 17.50},
+            {"name": "Tier 3", "range_kwh": [501, 99999], "base_rate_ksh_per_kwh": 12.28}
+        ]
+    },
+    "pass_through_charges_ksh_per_kwh": 5.5,
+    "vat_rate": 0.16,
+    "net_metering_export_rate_multiplier": 0.5
+}

@@ -1,0 +1,807 @@
+{
+    "panels": [
+        {
+            "brand": "Jinko",
+            "model": "Tiger Pro 550W",
+            "wattage": 550,
+            "price_ksh": 25000,
+            "efficiency": 21.3,
+            "warranty_years": 25,
+            "supplier": "Davis & Shirtliff"
+        },
+        {
+            "brand": "Trina",
+            "model": "Vertex S 435W",
+            "wattage": 435,
+            "price_ksh": 19500,
+            "efficiency": 21.8,
+            "warranty_years": 25,
+            "supplier": "SolarStore.co.ke"
+        },
+        {
+            "brand": "Longi",
+            "model": "Hi-MO 5 700W",
+            "wattage": 700,
+            "price_ksh": 40000,
+            "efficiency": 22.5,
+            "warranty_years": 25,
+            "supplier": "Jumia"
+        },
+        {
+            "brand": "Chint",
+            "model": "Astronergy 300W",
+            "wattage": 300,
+            "price_ksh": 14000,
+            "efficiency": 18.5,
+            "warranty_years": 25,
+            "supplier": "Local Distributor"
+        },
+        {
+            "brand": "Canadian Solar",
+            "model": "HiKu 410W",
+            "wattage": 410,
+            "price_ksh": 18500,
+            "efficiency": 20.4,
+            "warranty_years": 25,
+            "supplier": "SolarStore.co.ke"
+        },
+        {
+            "brand": "REC",
+            "model": "Alpha Pure-R 405W",
+            "wattage": 405,
+            "price_ksh": 22000,
+            "efficiency": 21.2,
+            "warranty_years": 25,
+            "supplier": "Specialist Importer"
+        },
+        {
+            "brand": "Q CELLS",
+            "model": "Q.PEAK DUO-G5 335W",
+            "wattage": 335,
+            "price_ksh": 15000,
+            "efficiency": 19.6,
+            "warranty_years": 25,
+            "supplier": "Local Distributor"
+        },
+        {
+            "brand": "JA Solar",
+            "model": "DeepBlue 2 390W",
+            "wattage": 390,
+            "price_ksh": 17000,
+            "efficiency": 19.9,
+            "warranty_years": 25,
+            "supplier": "SolarStore.co.ke"
+        },
+        {
+            "brand": "SunPower",
+            "model": "A-Series 420W",
+            "wattage": 420,
+            "price_ksh": 52000,
+            "efficiency": 22.6,
+            "warranty_years": 25,
+            "supplier": "Specialist Importer"
+        },
+        {
+            "brand": "Panasonic",
+            "model": "HIT 330W",
+            "wattage": 330,
+            "price_ksh": 30000,
+            "efficiency": 20.3,
+            "warranty_years": 25,
+            "supplier": "Davis & Shirtliff"
+        },
+        {
+            "brand": "JA Solar",
+            "model": "Mono PERC 545W",
+            "wattage": 545,
+            "price_ksh": 24000,
+            "efficiency": 21.6,
+            "warranty_years": 25,
+            "supplier": "Jumia"
+        },
+        {
+            "brand": "Risen",
+            "model": "RSM 450W",
+            "wattage": 450,
+            "price_ksh": 20000,
+            "efficiency": 20.8,
+            "warranty_years": 25,
+            "supplier": "Local Distributor"
+        },
+        {
+            "brand": "Talesun",
+            "model": "JAM72D 370W",
+            "wattage": 370,
+            "price_ksh": 16000,
+            "efficiency": 19.2,
+            "warranty_years": 25,
+            "supplier": "SolarStore.co.ke"
+        },
+        {
+            "brand": "Yingli",
+            "model": "YLM 330W",
+            "wattage": 330,
+            "price_ksh": 13000,
+            "efficiency": 18.8,
+            "warranty_years": 20,
+            "supplier": "Local Distributor"
+        },
+        {
+            "brand": "Mission Solar",
+            "model": "MSE 430W",
+            "wattage": 430,
+            "price_ksh": 21000,
+            "efficiency": 20.6,
+            "warranty_years": 25,
+            "supplier": "Specialist Importer"
+        },
+        {
+            "brand": "Hyundai",
+            "model": "HiE 375W",
+            "wattage": 375,
+            "price_ksh": 17000,
+            "efficiency": 19.4,
+            "warranty_years": 25,
+            "supplier": "Davis & Shirtliff"
+        },
+        {
+            "brand": "Hanwha Q Cells",
+            "model": "Q.PEAK 530W",
+            "wattage": 530,
+            "price_ksh": 26000,
+            "efficiency": 21.4,
+            "warranty_years": 25,
+            "supplier": "SolarStore.co.ke"
+        },
+        {
+            "brand": "Silfab",
+            "model": "SFL 330W",
+            "wattage": 330,
+            "price_ksh": 28000,
+            "efficiency": 19.7,
+            "warranty_years": 25,
+            "supplier": "Specialist Importer"
+        },
+        {
+            "brand": "Suntech",
+            "model": "StP 390W",
+            "wattage": 390,
+            "price_ksh": 15500,
+            "efficiency": 19.9,
+            "warranty_years": 25,
+            "supplier": "Local Distributor"
+        },
+        {
+            "brand": "First Solar",
+            "model": "Series 6 450W (thin-film)",
+            "wattage": 450,
+            "price_ksh": 38000,
+            "efficiency": 17.0,
+            "warranty_years": 25,
+            "supplier": "Specialist Importer"
+        },
+        {
+            "brand": "Seraphim",
+            "model": "Blade 415W",
+            "wattage": 415,
+            "price_ksh": 17500,
+            "efficiency": 20.1,
+            "warranty_years": 25,
+            "supplier": "SolarStore.co.ke"
+        },
+        {
+            "brand": "Trina",
+            "model": "Tallmax M 540W",
+            "wattage": 540,
+            "price_ksh": 23000,
+            "efficiency": 21.0,
+            "warranty_years": 25,
+            "supplier": "Jumia"
+        },
+        {
+            "brand": "Jinko",
+            "model": "Cheetah 410W",
+            "wattage": 410,
+            "price_ksh": 19000,
+            "efficiency": 20.2,
+            "warranty_years": 25,
+            "supplier": "Davis & Shirtliff"
+        },
+        {
+            "brand": "LONGi",
+            "model": "LR5-72HPH 540W",
+            "wattage": 540,
+            "price_ksh": 23500,
+            "efficiency": 21.1,
+            "warranty_years": 25,
+            "supplier": "Specialist Importer"
+        },
+        {
+            "brand": "Q CELLS",
+            "model": "Q.PLUS DUO L-G3 360W",
+            "wattage": 360,
+            "price_ksh": 16500,
+            "efficiency": 19.8,
+            "warranty_years": 25,
+            "supplier": "Local Distributor"
+        },
+        {
+            "brand": "Solaria",
+            "model": "PowerXT 370W",
+            "wattage": 370,
+            "price_ksh": 34000,
+            "efficiency": 20.9,
+            "warranty_years": 25,
+            "supplier": "Specialist Importer"
+        },
+        {
+            "brand": "REC",
+            "model": "TwinPeak 295W",
+            "wattage": 295,
+            "price_ksh": 14500,
+            "efficiency": 18.2,
+            "warranty_years": 25,
+            "supplier": "Local Distributor"
+        },
+        {
+            "brand": "SunPower",
+            "model": "E-Series 360W",
+            "wattage": 360,
+            "price_ksh": 48000,
+            "efficiency": 21.9,
+            "warranty_years": 25,
+            "supplier": "SolarStore.co.ke"
+        },
+        {
+            "brand": "ReneSola",
+            "model": "Pallas 325W",
+            "wattage": 325,
+            "price_ksh": 12500,
+            "efficiency": 18.9,
+            "warranty_years": 20,
+            "supplier": "Local Distributor"
+        },
+        {
+            "brand": "Mission Solar",
+            "model": "MSE 330W",
+            "wattage": 330,
+            "price_ksh": 15000,
+            "efficiency": 19.1,
+            "warranty_years": 25,
+            "supplier": "SolarStore.co.ke"
+        },
+        {
+            "brand": "GCL",
+            "model": "P6 420W",
+            "wattage": 420,
+            "price_ksh": 16500,
+            "efficiency": 20.0,
+            "warranty_years": 25,
+            "supplier": "Jumia"
+        },
+        {
+            "brand": "Hyundai",
+            "model": "HiE 320W",
+            "wattage": 320,
+            "price_ksh": 14500,
+            "efficiency": 18.6,
+            "warranty_years": 25,
+            "supplier": "Local Distributor"
+        }
+    ],
+    "inverters": [
+        {
+            "brand": "Growatt",
+            "model": "SPF 3000TL HVM",
+            "capacity_kw": 3,
+            "type": "hybrid",
+            "price_ksh": 85000,
+            "efficiency": 0.97,
+            "supplier": "SolarStore.co.ke"
+        },
+        {
+            "brand": "Must",
+            "model": "PH18-5248 PRO",
+            "capacity_kw": 5,
+            "type": "hybrid",
+            "price_ksh": 120000,
+            "efficiency": 0.98,
+            "supplier": "Local Distributor"
+        },
+        {
+            "brand": "Deye",
+            "model": "SUN-8K-SG04LP3",
+            "capacity_kw": 8,
+            "type": "hybrid",
+            "price_ksh": 280000,
+            "efficiency": 0.98,
+            "supplier": "Davis & Shirtliff"
+        },
+        {
+            "brand": "SMA",
+            "model": "Sunny Tripower 11.0",
+            "capacity_kw": 11,
+            "type": "grid-tie",
+            "price_ksh": 750000,
+            "efficiency": 0.985,
+            "supplier": "Specialist Importer"
+        },
+        {
+            "brand": "Schneider",
+            "model": "Conext SW 4048",
+            "capacity_kw": 4.048,
+            "type": "hybrid",
+            "price_ksh": 200000,
+            "efficiency": 0.975,
+            "supplier": "Local Distributor"
+        },
+        {
+            "brand": "Huawei",
+            "model": "SUN2000-5KTL-M1",
+            "capacity_kw": 5,
+            "type": "hybrid",
+            "price_ksh": 150000,
+            "efficiency": 0.979,
+            "supplier": "Davis & Shirtliff"
+        },
+        {
+            "brand": "Sungrow",
+            "model": "SG10KTL-M",
+            "capacity_kw": 10,
+            "type": "hybrid",
+            "price_ksh": 400000,
+            "efficiency": 0.982,
+            "supplier": "SolarStore.co.ke"
+        },
+        {
+            "brand": "SolarEdge",
+            "model": "SE7K",
+            "capacity_kw": 7,
+            "type": "grid-tie",
+            "price_ksh": 250000,
+            "efficiency": 0.99,
+            "supplier": "Specialist Importer"
+        },
+        {
+            "brand": "Fronius",
+            "model": "Symo 6.0-3-M",
+            "capacity_kw": 6,
+            "type": "grid-tie",
+            "price_ksh": 300000,
+            "efficiency": 0.978,
+            "supplier": "Davis & Shirtliff"
+        },
+        {
+            "brand": "Kostal",
+            "model": "Plenticore Plus 10",
+            "capacity_kw": 10,
+            "type": "hybrid",
+            "price_ksh": 450000,
+            "efficiency": 0.98,
+            "supplier": "Local Distributor"
+        },
+        {
+            "brand": "Delta",
+            "model": "M6A 6kW",
+            "capacity_kw": 6,
+            "type": "hybrid",
+            "price_ksh": 280000,
+            "efficiency": 0.976,
+            "supplier": "Davis & Shirtliff"
+        },
+        {
+            "brand": "Omnik",
+            "model": "RT 5kW",
+            "capacity_kw": 5,
+            "type": "grid-tie",
+            "price_ksh": 180000,
+            "efficiency": 0.975,
+            "supplier": "Specialist Importer"
+        },
+        {
+            "brand": "Victron",
+            "model": "Multiplus 1.0kVA",
+            "capacity_kw": 1,
+            "type": "hybrid",
+            "price_ksh": 35000,
+            "efficiency": 0.94,
+            "supplier": "Local Distributor"
+        },
+        {
+            "brand": "Victron",
+            "model": "Quattro 1.2kVA",
+            "capacity_kw": 1.2,
+            "type": "hybrid",
+            "price_ksh": 42000,
+            "efficiency": 0.945,
+            "supplier": "Local Distributor"
+        },
+        {
+            "brand": "GoodWe",
+            "model": "DNS-1.5K",
+            "capacity_kw": 1.5,
+            "type": "hybrid",
+            "price_ksh": 38000,
+            "efficiency": 0.95,
+            "supplier": "SolarStore.co.ke"
+        },
+        {
+            "brand": "Solax",
+            "model": "X1-2.0T",
+            "capacity_kw": 2,
+            "type": "hybrid",
+            "price_ksh": 52000,
+            "efficiency": 0.955,
+            "supplier": "Local Distributor"
+        },
+        {
+            "brand": "Growatt",
+            "model": "MIN 2.5KTL-X",
+            "capacity_kw": 2.5,
+            "type": "hybrid",
+            "price_ksh": 60000,
+            "efficiency": 0.96,
+            "supplier": "SolarStore.co.ke"
+        },
+        {
+            "brand": "SMA",
+            "model": "Sunny Boy 2.5",
+            "capacity_kw": 2.5,
+            "type": "grid-tie",
+            "price_ksh": 70000,
+            "efficiency": 0.97,
+            "supplier": "Specialist Importer"
+        },
+        {
+            "brand": "Fronius",
+            "model": "Primo 3.0-1",
+            "capacity_kw": 3,
+            "type": "grid-tie",
+            "price_ksh": 95000,
+            "efficiency": 0.976,
+            "supplier": "Local Distributor"
+        },
+        {
+            "brand": "Huawei",
+            "model": "SUN2000-3KTL-L1",
+            "capacity_kw": 3,
+            "type": "hybrid",
+            "price_ksh": 88000,
+            "efficiency": 0.978,
+            "supplier": "Davis & Shirtliff"
+        },
+        {
+            "brand": "Sungrow",
+            "model": "SG3.6KTL-M",
+            "capacity_kw": 3.6,
+            "type": "hybrid",
+            "price_ksh": 98000,
+            "efficiency": 0.975,
+            "supplier": "SolarStore.co.ke"
+        },
+        {
+            "brand": "SolarEdge",
+            "model": "SE4K",
+            "capacity_kw": 4,
+            "type": "grid-tie",
+            "price_ksh": 140000,
+            "efficiency": 0.99,
+            "supplier": "Specialist Importer"
+        },
+        {
+            "brand": "Kostal",
+            "model": "Plenticore Plus 4.2",
+            "capacity_kw": 4.2,
+            "type": "hybrid",
+            "price_ksh": 150000,
+            "efficiency": 0.978,
+            "supplier": "Local Distributor"
+        },
+        {
+            "brand": "Fronius",
+            "model": "Symo Hybrid 4.6",
+            "capacity_kw": 4.6,
+            "type": "hybrid",
+            "price_ksh": 175000,
+            "efficiency": 0.98,
+            "supplier": "Davis & Shirtliff"
+        },
+        {
+            "brand": "GoodWe",
+            "model": "GW5000-ES",
+            "capacity_kw": 5,
+            "type": "hybrid",
+            "price_ksh": 120000,
+            "efficiency": 0.978,
+            "supplier": "SolarStore.co.ke"
+        },
+        {
+            "brand": "SMA",
+            "model": "Sunny Boy Storage 6.0",
+            "capacity_kw": 6,
+            "type": "hybrid",
+            "price_ksh": 260000,
+            "efficiency": 0.981,
+            "supplier": "Specialist Importer"
+        },
+        {
+            "brand": "Sungrow",
+            "model": "SG6.5KTLM",
+            "capacity_kw": 6.5,
+            "type": "grid-tie",
+            "price_ksh": 220000,
+            "efficiency": 0.98,
+            "supplier": "Local Distributor"
+        },
+        {
+            "brand": "Schneider",
+            "model": "Conext XW+ 7kW",
+            "capacity_kw": 7,
+            "type": "hybrid",
+            "price_ksh": 310000,
+            "efficiency": 0.972,
+            "supplier": "Davis & Shirtliff"
+        },
+        {
+            "brand": "Deye",
+            "model": "SUN-8.5KW",
+            "capacity_kw": 8.5,
+            "type": "grid-tie",
+            "price_ksh": 300000,
+            "efficiency": 0.98,
+            "supplier": "Davis & Shirtliff"
+        },
+        {
+            "brand": "Huawei",
+            "model": "SUN2000-10KTL-M3",
+            "capacity_kw": 10,
+            "type": "hybrid",
+            "price_ksh": 420000,
+            "efficiency": 0.984,
+            "supplier": "SolarStore.co.ke"
+        },
+        {
+            "brand": "Ingeteam",
+            "model": "INGETEAM 12TL",
+            "capacity_kw": 12,
+            "type": "grid-tie",
+            "price_ksh": 650000,
+            "efficiency": 0.985,
+            "supplier": "Specialist Importer"
+        },
+        {
+            "brand": "SolarEdge",
+            "model": "SE12.5K",
+            "capacity_kw": 12.5,
+            "type": "grid-tie",
+            "price_ksh": 720000,
+            "efficiency": 0.99,
+            "supplier": "Specialist Importer"
+        },
+        {
+            "brand": "Victron",
+            "model": "EasySolar 15kW",
+            "capacity_kw": 15,
+            "type": "hybrid",
+            "price_ksh": 950000,
+            "efficiency": 0.97,
+            "supplier": "Local Distributor"
+        },
+        {
+            "brand": "Fronius",
+            "model": "Eco 16kW",
+            "capacity_kw": 16,
+            "type": "hybrid",
+            "price_ksh": 980000,
+            "efficiency": 0.979,
+            "supplier": "Davis & Shirtliff"
+        },
+        {
+            "brand": "FIMER",
+            "model": "UNO-20-3TL-PLUS",
+            "capacity_kw": 20,
+            "type": "grid-tie",
+            "price_ksh": 1400000,
+            "efficiency": 0.985,
+            "supplier": "Specialist Importer"
+        },
+        {
+            "brand": "Delta",
+            "model": "M50A 25kW",
+            "capacity_kw": 25,
+            "type": "hybrid",
+            "price_ksh": 1800000,
+            "efficiency": 0.984,
+            "supplier": "Local Distributor"
+        },
+        {
+            "brand": "GoodWe",
+            "model": "MT33-TL 30kW",
+            "capacity_kw": 30,
+            "type": "hybrid",
+            "price_ksh": 2400000,
+            "efficiency": 0.982,
+            "supplier": "SolarStore.co.ke"
+        },
+        {
+            "brand": "Sungrow",
+            "model": "SG33RT 33kW",
+            "capacity_kw": 33,
+            "type": "grid-tie",
+            "price_ksh": 3200000,
+            "efficiency": 0.985,
+            "supplier": "Specialist Importer"
+        },
+        {
+            "brand": "Kstar",
+            "model": "KSG-50T",
+            "capacity_kw": 50,
+            "type": "hybrid",
+            "price_ksh": 4500000,
+            "efficiency": 0.982,
+            "supplier": "Local Distributor"
+        },
+        {
+            "brand": "Omnik",
+            "model": "RT 60kW",
+            "capacity_kw": 60,
+            "type": "grid-tie",
+            "price_ksh": 6500000,
+            "efficiency": 0.98,
+            "supplier": "Specialist Importer"
+        },
+        {
+            "brand": "Studer",
+            "model": "Xtender XTH 80",
+            "capacity_kw": 80,
+            "type": "hybrid",
+            "price_ksh": 9800000,
+            "efficiency": 0.975,
+            "supplier": "Specialist Importer"
+        },
+        {
+            "brand": "Ingeteam",
+            "model": "INGETEAM 100TL",
+            "capacity_kw": 100,
+            "type": "grid-tie",
+            "price_ksh": 12000000,
+            "efficiency": 0.986,
+            "supplier": "Specialist Importer"
+        }
+    ],
+    "batteries": [
+        {
+            "type": "Gel (Maintenance-Free)",
+            "capacity_ah": 200,
+            "voltage": 12,
+            "price_ksh": 35000,
+            "lifespan_years": 8,
+            "dod": 0.6,
+            "brand": "Ritar",
+            "supplier": "Davis & Shirtliff",
+            "cycles": 1200,
+            "notes": "Most popular for solar in Kenya - maintenance-free, sealed"
+        },
+        {
+            "type": "Gel (Maintenance-Free)",
+            "capacity_ah": 150,
+            "voltage": 12,
+            "price_ksh": 28000,
+            "lifespan_years": 7,
+            "dod": 0.6,
+            "brand": "Vision",
+            "supplier": "Local Distributor",
+            "cycles": 1000,
+            "notes": "Common mid-size gel battery for solar"
+        },
+        {
+            "type": "Gel (Maintenance-Free)",
+            "capacity_ah": 100,
+            "voltage": 12,
+            "price_ksh": 22000,
+            "lifespan_years": 6,
+            "dod": 0.5,
+            "brand": "Narada",
+            "supplier": "SolarStore.co.ke",
+            "cycles": 800,
+            "notes": "Entry-level gel battery"
+        },
+        {
+            "type": "Lead-Acid (Flooded)",
+            "capacity_ah": 200,
+            "voltage": 12,
+            "price_ksh": 18000,
+            "lifespan_years": 4,
+            "dod": 0.5,
+            "brand": "Chloride Exide",
+            "supplier": "Local Distributor",
+            "cycles": 600,
+            "notes": "Cheapest option - requires regular maintenance"
+        },
+        {
+            "type": "Lead-Acid (Flooded)",
+            "capacity_ah": 100,
+            "voltage": 12,
+            "price_ksh": 12000,
+            "lifespan_years": 3,
+            "dod": 0.5,
+            "brand": "Generic",
+            "supplier": "Local Distributor",
+            "cycles": 500,
+            "notes": "Budget option"
+        },
+        {
+            "type": "Lithium (LiFePO4)",
+            "capacity_ah": 200,
+            "voltage": 12.8,
+            "price_ksh": 95000,
+            "lifespan_years": 12,
+            "dod": 0.9,
+            "brand": "Pylontech",
+            "supplier": "Davis & Shirtliff",
+            "cycles": 6000,
+            "notes": "Premium option - longest lifespan, deepest discharge"
+        },
+        {
+            "type": "Lithium (LiFePO4)",
+            "capacity_ah": 100,
+            "voltage": 12.8,
+            "price_ksh": 52000,
+            "lifespan_years": 10,
+            "dod": 0.9,
+            "brand": "BYD",
+            "supplier": "SolarStore.co.ke",
+            "cycles": 5000,
+            "notes": "Good lithium option for smaller systems"
+        },
+        {
+            "type": "Lithium (48V)",
+            "capacity_ah": 50,
+            "voltage": 48,
+            "price_ksh": 220000,
+            "lifespan_years": 10,
+            "dod": 0.9,
+            "brand": "BYD B-Box",
+            "supplier": "Davis & Shirtliff",
+            "capacity_kwh": 2.4,
+            "cycles": 5000,
+            "notes": "Integrated 48V lithium system"
+        },
+        {
+            "type": "Lead-Acid (AGM)",
+            "capacity_ah": 200,
+            "voltage": 12,
+            "price_ksh": 42000,
+            "lifespan_years": 6,
+            "dod": 0.6,
+            "brand": "Narada",
+            "supplier": "Local Distributor",
+            "cycles": 900,
+            "notes": "Sealed lead-acid - better than flooded"
+        },
+        {
+            "type": "Gel (Deep Cycle)",
+            "capacity_ah": 250,
+            "voltage": 12,
+            "price_ksh": 42000,
+            "lifespan_years": 8,
+            "dod": 0.7,
+            "brand": "Victron Energy",
+            "supplier": "Davis & Shirtliff",
+            "cycles": 1500,
+            "notes": "High-quality gel for demanding applications"
+        },
+        {
+            "type": "Lead-Acid (Tubular)",
+            "capacity_ah": 240,
+            "voltage": 12,
+            "price_ksh": 26000,
+            "lifespan_years": 5,
+            "dod": 0.5,
+            "brand": "Trojan",
+            "supplier": "Local Distributor",
+            "cycles": 700,
+            "notes": "Deep cycle tubular plate design"
+        }
+    ]
+}

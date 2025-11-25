@@ -1,0 +1,14 @@
+{
+    "solar_irradiance_data": {
+        "description": "Daily average solar irradiance by county (kWh/m²/day)",
+        "data_source": "Kenya Solar Atlas & NASA POWER API",
+        "annual_average": 5.2,
+        "note": "Values represent Global Horizontal Irradiance (GHI) suitable for fixed-tilt PV systems"
+    },
+    "monthly_variance": {
+        "peak_months": ["December", "January", "February"],
+        "low_months": ["April", "May", "November"],
+        "variance_percent": 15
+    },
+    "reference": "Kenya_Solar_Atlas_Data.py for detailed county-level data"
+}

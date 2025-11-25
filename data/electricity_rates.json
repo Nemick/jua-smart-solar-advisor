@@ -1,0 +1,16 @@
+{
+    "domestic_rates": {
+        "base_rate_ksh_per_kwh": 30.0,
+        "pass_through_ksh_per_kwh": 5.5,
+        "vat_rate": 0.16,
+        "description": "Kenya domestic electricity rates (EPRA regulated)"
+    },
+    "commercial_rates": {
+        "base_rate_ksh_per_kwh": 25.0,
+        "pass_through_ksh_per_kwh": 6.0,
+        "vat_rate": 0.16,
+        "description": "Kenya commercial electricity rates (EPRA regulated)"
+    },
+    "grid_export_rate_ksh_per_kwh": 30.0,
+    "last_updated": "2025-10-01"
+}

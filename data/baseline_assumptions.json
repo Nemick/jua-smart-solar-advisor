@@ -1,0 +1,11 @@
+{
+    "system_losses_percent": 0.15,
+    "degradation_rate_per_year": 0.008,
+    "installation_cost_ksh_per_watt_range": [55, 120],
+    "om_cost_ksh_per_year_residential": 5000,
+    "grid_emission_factor_tco2_per_mwh": 0.4087,
+    "panel_lifespan_years": 25,
+    "inverter_lifespan_years": 10,
+    "battery_lifespan_years": 10,
+    "inverter_replacement_cost_percent": 0.5
+}

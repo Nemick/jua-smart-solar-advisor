@@ -1,0 +1,388 @@
+{
+  "metadata": {
+    "source": "Global Solar Atlas",
+    "url": "https://globalsolaratlas.info",
+    "country": "Kenya",
+    "resolution": "1 km",
+    "units": "kWh/m\u00b2/day",
+    "description": "Average daily solar irradiance by county"
+  },
+  "counties": [
+    {
+      "county": "NAIROBI",
+      "avg_irradiance_kwh_m2_day": 5.41,
+      "min_irradiance_kwh_m2_day": 1.38,
+      "max_irradiance_kwh_m2_day": 5.5,
+      "std_irradiance_kwh_m2_day": 0.43,
+      "pixel_count": 225550
+    },
+    {
+      "county": "MOMBASA",
+      "avg_irradiance_kwh_m2_day": 5.5,
+      "min_irradiance_kwh_m2_day": 5.5,
+      "max_irradiance_kwh_m2_day": 5.5,
+      "std_irradiance_kwh_m2_day": 0.0,
+      "pixel_count": 82908
+    },
+    {
+      "county": "KWALE",
+      "avg_irradiance_kwh_m2_day": 5.49,
+      "min_irradiance_kwh_m2_day": 0.02,
+      "max_irradiance_kwh_m2_day": 5.5,
+      "std_irradiance_kwh_m2_day": 0.13,
+      "pixel_count": 2597012
+    },
+    {
+      "county": "KILIFI",
+      "avg_irradiance_kwh_m2_day": 5.45,
+      "min_irradiance_kwh_m2_day": 0.02,
+      "max_irradiance_kwh_m2_day": 5.5,
+      "std_irradiance_kwh_m2_day": 0.29,
+      "pixel_count": 3488098
+    },
+    {
+      "county": "TANA RIVER",
+      "avg_irradiance_kwh_m2_day": 5.44,
+      "min_irradiance_kwh_m2_day": 0.02,
+      "max_irradiance_kwh_m2_day": 5.5,
+      "std_irradiance_kwh_m2_day": 0.31,
+      "pixel_count": 12748714
+    },
+    {
+      "county": "LAMU",
+      "avg_irradiance_kwh_m2_day": 5.48,
+      "min_irradiance_kwh_m2_day": 0.02,
+      "max_irradiance_kwh_m2_day": 5.5,
+      "std_irradiance_kwh_m2_day": 0.19,
+      "pixel_count": 2287481
+    },
+    {
+      "county": "TAITA TAVETA",
+      "avg_irradiance_kwh_m2_day": 5.48,
+      "min_irradiance_kwh_m2_day": 0.02,
+      "max_irradiance_kwh_m2_day": 5.5,
+      "std_irradiance_kwh_m2_day": 0.2,
+      "pixel_count": 4297351
+    },
+    {
+      "county": "GARISSA",
+      "avg_irradiance_kwh_m2_day": 5.46,
+      "min_irradiance_kwh_m2_day": 0.02,
+      "max_irradiance_kwh_m2_day": 5.5,
+      "std_irradiance_kwh_m2_day": 0.3,
+      "pixel_count": 15847381
+    },
+    {
+      "county": "WAJIR",
+      "avg_irradiance_kwh_m2_day": 5.45,
+      "min_irradiance_kwh_m2_day": 0.02,
+      "max_irradiance_kwh_m2_day": 5.5,
+      "std_irradiance_kwh_m2_day": 0.31,
+      "pixel_count": 13325664
+    },
+    {
+      "county": "MANDERA",
+      "avg_irradiance_kwh_m2_day": 5.46,
+      "min_irradiance_kwh_m2_day": 0.02,
+      "max_irradiance_kwh_m2_day": 5.5,
+      "std_irradiance_kwh_m2_day": 0.27,
+      "pixel_count": 7873612
+    },
+    {
+      "county": "MARSABIT",
+      "avg_irradiance_kwh_m2_day": 5.34,
+      "min_irradiance_kwh_m2_day": 0.02,
+      "max_irradiance_kwh_m2_day": 5.5,
+      "std_irradiance_kwh_m2_day": 0.35,
+      "pixel_count": 18979566
+    },
+    {
+      "county": "ISIOLO",
+      "avg_irradiance_kwh_m2_day": 5.29,
+      "min_irradiance_kwh_m2_day": 0.02,
+      "max_irradiance_kwh_m2_day": 5.5,
+      "std_irradiance_kwh_m2_day": 0.47,
+      "pixel_count": 10205643
+    },
+    {
+      "county": "MERU",
+      "avg_irradiance_kwh_m2_day": 5.14,
+      "min_irradiance_kwh_m2_day": 0.02,
+      "max_irradiance_kwh_m2_day": 5.5,
+      "std_irradiance_kwh_m2_day": 0.78,
+      "pixel_count": 2108831
+    },
+    {
+      "county": "THARAKA - NITHI",
+      "avg_irradiance_kwh_m2_day": 5.0,
+      "min_irradiance_kwh_m2_day": 0.02,
+      "max_irradiance_kwh_m2_day": 5.5,
+      "std_irradiance_kwh_m2_day": 0.9,
+      "pixel_count": 926313
+    },
+    {
+      "county": "EMBU",
+      "avg_irradiance_kwh_m2_day": 5.24,
+      "min_irradiance_kwh_m2_day": 0.02,
+      "max_irradiance_kwh_m2_day": 5.5,
+      "std_irradiance_kwh_m2_day": 0.6,
+      "pixel_count": 916288
+    },
+    {
+      "county": "KITUI",
+      "avg_irradiance_kwh_m2_day": 5.39,
+      "min_irradiance_kwh_m2_day": 0.02,
+      "max_irradiance_kwh_m2_day": 5.5,
+      "std_irradiance_kwh_m2_day": 0.44,
+      "pixel_count": 8010636
+    },
+    {
+      "county": "MACHAKOS",
+      "avg_irradiance_kwh_m2_day": 5.39,
+      "min_irradiance_kwh_m2_day": 0.02,
+      "max_irradiance_kwh_m2_day": 5.5,
+      "std_irradiance_kwh_m2_day": 0.35,
+      "pixel_count": 1786855
+    },
+    {
+      "county": "NYANDARUA",
+      "avg_irradiance_kwh_m2_day": 5.36,
+      "min_irradiance_kwh_m2_day": 0.02,
+      "max_irradiance_kwh_m2_day": 5.5,
+      "std_irradiance_kwh_m2_day": 0.44,
+      "pixel_count": 1011930
+    },
+    {
+      "county": "NYERI",
+      "avg_irradiance_kwh_m2_day": 5.42,
+      "min_irradiance_kwh_m2_day": 0.02,
+      "max_irradiance_kwh_m2_day": 5.5,
+      "std_irradiance_kwh_m2_day": 0.33,
+      "pixel_count": 828798
+    },
+    {
+      "county": "KIRINYAGA",
+      "avg_irradiance_kwh_m2_day": 5.4,
+      "min_irradiance_kwh_m2_day": 0.02,
+      "max_irradiance_kwh_m2_day": 5.5,
+      "std_irradiance_kwh_m2_day": 0.3,
+      "pixel_count": 399647
+    },
+    {
+      "county": "MURANG'A",
+      "avg_irradiance_kwh_m2_day": 5.4,
+      "min_irradiance_kwh_m2_day": 0.02,
+      "max_irradiance_kwh_m2_day": 5.5,
+      "std_irradiance_kwh_m2_day": 0.26,
+      "pixel_count": 678130
+    },
+    {
+      "county": "KIAMBU",
+      "avg_irradiance_kwh_m2_day": 5.39,
+      "min_irradiance_kwh_m2_day": 0.02,
+      "max_irradiance_kwh_m2_day": 5.5,
+      "std_irradiance_kwh_m2_day": 0.31,
+      "pixel_count": 869309
+    },
+    {
+      "county": "WEST POKOT",
+      "avg_irradiance_kwh_m2_day": 5.4,
+      "min_irradiance_kwh_m2_day": 0.02,
+      "max_irradiance_kwh_m2_day": 5.5,
+      "std_irradiance_kwh_m2_day": 0.42,
+      "pixel_count": 2705411
+    },
+    {
+      "county": "SAMBURU",
+      "avg_irradiance_kwh_m2_day": 5.28,
+      "min_irradiance_kwh_m2_day": 0.02,
+      "max_irradiance_kwh_m2_day": 5.5,
+      "std_irradiance_kwh_m2_day": 0.41,
+      "pixel_count": 6277528
+    },
+    {
+      "county": "UASIN GISHU",
+      "avg_irradiance_kwh_m2_day": 5.42,
+      "min_irradiance_kwh_m2_day": 0.02,
+      "max_irradiance_kwh_m2_day": 5.5,
+      "std_irradiance_kwh_m2_day": 0.54,
+      "pixel_count": 1175913
+    },
+    {
+      "county": "ELEGEYO-MARAKWET",
+      "avg_irradiance_kwh_m2_day": 5.46,
+      "min_irradiance_kwh_m2_day": 0.02,
+      "max_irradiance_kwh_m2_day": 5.5,
+      "std_irradiance_kwh_m2_day": 0.35,
+      "pixel_count": 1157964
+    },
+    {
+      "county": "NANDI",
+      "avg_irradiance_kwh_m2_day": 5.34,
+      "min_irradiance_kwh_m2_day": 0.02,
+      "max_irradiance_kwh_m2_day": 5.5,
+      "std_irradiance_kwh_m2_day": 0.78,
+      "pixel_count": 751928
+    },
+    {
+      "county": "BARINGO",
+      "avg_irradiance_kwh_m2_day": 5.35,
+      "min_irradiance_kwh_m2_day": 0.02,
+      "max_irradiance_kwh_m2_day": 5.5,
+      "std_irradiance_kwh_m2_day": 0.49,
+      "pixel_count": 3230152
+    },
+    {
+      "county": "LAIKIPIA",
+      "avg_irradiance_kwh_m2_day": 5.35,
+      "min_irradiance_kwh_m2_day": 0.02,
+      "max_irradiance_kwh_m2_day": 5.5,
+      "std_irradiance_kwh_m2_day": 0.43,
+      "pixel_count": 2431183
+    },
+    {
+      "county": "NAKURU",
+      "avg_irradiance_kwh_m2_day": 5.37,
+      "min_irradiance_kwh_m2_day": 0.02,
+      "max_irradiance_kwh_m2_day": 5.5,
+      "std_irradiance_kwh_m2_day": 0.39,
+      "pixel_count": 2951928
+    },
+    {
+      "county": "NAROK",
+      "avg_irradiance_kwh_m2_day": 5.48,
+      "min_irradiance_kwh_m2_day": 0.02,
+      "max_irradiance_kwh_m2_day": 5.5,
+      "std_irradiance_kwh_m2_day": 0.21,
+      "pixel_count": 5212102
+    },
+    {
+      "county": "KAJIADO",
+      "avg_irradiance_kwh_m2_day": 5.48,
+      "min_irradiance_kwh_m2_day": 0.02,
+      "max_irradiance_kwh_m2_day": 5.5,
+      "std_irradiance_kwh_m2_day": 0.18,
+      "pixel_count": 7478108
+    },
+    {
+      "county": "MAKUENI",
+      "avg_irradiance_kwh_m2_day": 5.46,
+      "min_irradiance_kwh_m2_day": 0.02,
+      "max_irradiance_kwh_m2_day": 5.5,
+      "std_irradiance_kwh_m2_day": 0.27,
+      "pixel_count": 3663094
+    },
+    {
+      "county": "KERICHO",
+      "avg_irradiance_kwh_m2_day": 5.46,
+      "min_irradiance_kwh_m2_day": 0.02,
+      "max_irradiance_kwh_m2_day": 5.5,
+      "std_irradiance_kwh_m2_day": 0.31,
+      "pixel_count": 821779
+    },
+    {
+      "county": "KAKAMEGA",
+      "avg_irradiance_kwh_m2_day": 5.36,
+      "min_irradiance_kwh_m2_day": 0.02,
+      "max_irradiance_kwh_m2_day": 5.5,
+      "std_irradiance_kwh_m2_day": 0.72,
+      "pixel_count": 1069293
+    },
+    {
+      "county": "VIHIGA",
+      "avg_irradiance_kwh_m2_day": 5.27,
+      "min_irradiance_kwh_m2_day": 0.02,
+      "max_irradiance_kwh_m2_day": 5.5,
+      "std_irradiance_kwh_m2_day": 0.91,
+      "pixel_count": 145206
+    },
+    {
+      "county": "BUNGOMA",
+      "avg_irradiance_kwh_m2_day": 5.37,
+      "min_irradiance_kwh_m2_day": 0.02,
+      "max_irradiance_kwh_m2_day": 5.5,
+      "std_irradiance_kwh_m2_day": 0.69,
+      "pixel_count": 840734
+    },
+    {
+      "county": "BUSIA",
+      "avg_irradiance_kwh_m2_day": 5.39,
+      "min_irradiance_kwh_m2_day": 0.02,
+      "max_irradiance_kwh_m2_day": 5.5,
+      "std_irradiance_kwh_m2_day": 0.64,
+      "pixel_count": 701509
+    },
+    {
+      "county": "SIAYA",
+      "avg_irradiance_kwh_m2_day": 5.36,
+      "min_irradiance_kwh_m2_day": 0.02,
+      "max_irradiance_kwh_m2_day": 5.5,
+      "std_irradiance_kwh_m2_day": 0.72,
+      "pixel_count": 735249
+    },
+    {
+      "county": "HOMA BAY",
+      "avg_irradiance_kwh_m2_day": 5.49,
+      "min_irradiance_kwh_m2_day": 0.02,
+      "max_irradiance_kwh_m2_day": 5.5,
+      "std_irradiance_kwh_m2_day": 0.21,
+      "pixel_count": 1195364
+    },
+    {
+      "county": "MIGORI",
+      "avg_irradiance_kwh_m2_day": 5.5,
+      "min_irradiance_kwh_m2_day": 5.5,
+      "max_irradiance_kwh_m2_day": 5.5,
+      "std_irradiance_kwh_m2_day": 0.0,
+      "pixel_count": 1069810
+    },
+    {
+      "county": "KISII",
+      "avg_irradiance_kwh_m2_day": 5.5,
+      "min_irradiance_kwh_m2_day": 5.5,
+      "max_irradiance_kwh_m2_day": 5.5,
+      "std_irradiance_kwh_m2_day": 0.0,
+      "pixel_count": 339789
+    },
+    {
+      "county": "BOMET",
+      "avg_irradiance_kwh_m2_day": 5.5,
+      "min_irradiance_kwh_m2_day": 5.5,
+      "max_irradiance_kwh_m2_day": 5.5,
+      "std_irradiance_kwh_m2_day": 0.0,
+      "pixel_count": 657900
+    },
+    {
+      "county": "NYAMIRA",
+      "avg_irradiance_kwh_m2_day": 5.5,
+      "min_irradiance_kwh_m2_day": 5.5,
+      "max_irradiance_kwh_m2_day": 5.5,
+      "std_irradiance_kwh_m2_day": 0.0,
+      "pixel_count": 268422
+    },
+    {
+      "county": "KISUMU",
+      "avg_irradiance_kwh_m2_day": 5.4,
+      "min_irradiance_kwh_m2_day": 0.02,
+      "max_irradiance_kwh_m2_day": 5.5,
+      "std_irradiance_kwh_m2_day": 0.61,
+      "pixel_count": 681098
+    },
+    {
+      "county": "TRANS NZOIA",
+      "avg_irradiance_kwh_m2_day": 5.35,
+      "min_irradiance_kwh_m2_day": 0.02,
+      "max_irradiance_kwh_m2_day": 5.5,
+      "std_irradiance_kwh_m2_day": 0.74,
+      "pixel_count": 605104
+    },
+    {
+      "county": "County_47",
+      "avg_irradiance_kwh_m2_day": 4.67,
+      "min_irradiance_kwh_m2_day": 0.04,
+      "max_irradiance_kwh_m2_day": 5.5,
+      "std_irradiance_kwh_m2_day": 1.58,
+      "pixel_count": 45
+    }
+  ]
+}
