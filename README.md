@@ -150,20 +150,6 @@ jua-smart-solar-advisor/
 
 ---
 
-## 🔒 Security
-
-⚠️ **IMPORTANT**:
-- Never commit `.env` file to Git
-- Keep API keys private
-- Use secrets management for deployment
-- `.gitignore` is configured to protect sensitive files
-
-For deployment, use:
-- Streamlit Cloud: Secrets management
-- Environment variables on hosting platform
-- Never hardcode API keys in code
-
----
 
 ## 🛠️ Tech Stack
 
