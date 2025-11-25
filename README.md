@@ -115,54 +115,6 @@ Use additional tools:
 
 ---
 
-## 🌐 Deployment
-
-### Free Deployment on Streamlit Cloud
-
-**Streamlit Cloud** offers free hosting for public apps!
-
-1. **Push to GitHub**
-   ```bash
-   git add .
-   git commit -m "Initial commit"
-   git push origin main
-   ```
-
-2. **Deploy on Streamlit Cloud**
-   - Go to [share.streamlit.io](https://share.streamlit.io)
-   - Click **"New app"**
-   - Connect your GitHub repository
-   - Select the branch (main) and file (app.py)
-   - Add your `GEMINI_API_KEY` in **Advanced settings → Secrets**:
-     ```toml
-     GEMINI_API_KEY = "your_api_key_here"
-     ```
-   - Click **"Deploy"**
-
-3. **Your app will be live!**
-   - URL: `https://your-app-name.streamlit.app`
-   - Automatic updates when you push to GitHub
-
-### Alternative Free Options
-
-**Hugging Face Spaces**
-- Free hosting for ML/AI apps
-- Visit: https://huggingface.co/spaces
-- Deploy with Docker or Streamlit
-- 2 vCPU + 16GB RAM (free tier)
-
-**Railway.app**
-- Free tier with $5 monthly credit
-- Easy deployment from GitHub
-- Supports Python/Docker
-
-**Render.com**
-- Free tier for web services
-- Auto-deploys from Git
-- 750 hours/month free
-
----
-
 ## 📁 Project Structure
 
 ```
